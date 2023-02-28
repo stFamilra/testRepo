@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ggg
 #guighigjhgroijgrjgrpopopopopopopopopopopopopopopopopopopopopopopopopopoejsdg
 #guighigjhgroijgrjgrpopopopopopopopopopopopopopopopopopopopopopopopopopoejsdg
 #guighigjhgroijgrjgrpopopopopopopopopopopopopopopopopopopopopopopopopopoejsdg
@@ -26,7 +26,6 @@
 #guighigjhgroijgrjgrpopopopopopopopopopopopopopopopopopopopopopopopopopoejsdg
 #guighigjhgroijgrjgrpopopopopopopopopopopopopopopopopopopopopopopopopopoejsdg
 #guighigjhgroijgrjgrpopopopopopopopopopopopopopopopopopopopopopopopopopoejsdg
-=======
 #testRepo\
 
 #ссылка на шпаргалку по гит - https://www.evernote.com/shard/s368/client/snv?noteGuid=b1359883-2b9e-419a-b9de-dd959fc05f05&noteKey=97c0f19486d851b3&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs368%2Fsh%2Fb1359883-2b9e-419a-b9de-dd959fc05f05%2F97c0f19486d851b3&title=Gi
@@ -49,4 +48,3 @@
 #git checkout -b nameNewBranch - создаёт новую ветку и автоматически переключается на неё\
 #работать с git будет куда удобнее, если в качестве терминала использовать git bush. Его можно выбрать в консоли VS Code\
 #git pull origin master - помещает в текущую ветку содержимое ветки master. Вместо master можно написать любую другую существующую ветку. Содержимое можно поместить в любую ветку.пш
->>>>>>> afd12aa8a16fa02570f365fb33a9b86648c55afe
