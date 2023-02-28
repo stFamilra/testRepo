@@ -16,12 +16,4 @@
 #git checkout nameBranch - переключается на другую ветку\
 #git checkout -b nameNewBranch - создаёт новую ветку и автоматически переключается на неё\
 #работать с git будет куда удобнее, если в качестве терминала использовать git bush. Его можно выбрать в консоли VS Code\
-<<<<<<< HEAD
-#guighigjhgroijgrjgrpopopopopopopopopopopopopopopopopopopopopopopopopopoejsdg
-#guighigjhgroijgrjgrpopopopopopopopopopopopopopopopopopopopopopopopopopoejsdg
-#guighigjhgroijgrjgrpopopopopopopopopopopopopopopopopopopopopopopopopopoejsdg
-#guighigjhgroijgrjgrpopopopopopopopopopopopopopopopopopopopopopopopopopoejsdg
-=======
-#работать с git будет куда удобнее, если в качестве терминала использовать git bush. Его можно выбрать в консоли VS Code\
-#ffff
->>>>>>> 2d32628c3e40dc49b13fee15b312673e259f5dfd
+#git pull origin master - помещает в текущую ветку содержимое ветки master. Вместо master можно написать любую другую существующую ветку. Содержимое можно поместить в любую ветку.пш
